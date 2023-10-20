@@ -1,6 +1,6 @@
 - **Hi, I’m Hamna Jabbar**
 - **I’m Software developer specilizing in web development.**
-- 👩‍💻I’m currently learning Next.js,Express.js.
+- 👩‍💻I’m currently learning MERN stack.
 - I’m looking to collaborate on open source contributions.
 - Hit me up on 👇:
   https://www.linkedin.com/in/hamna-jabbar-b7a028246/
