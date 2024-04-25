@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hamna Jabbar</h1>
 <h3 align="center">MERN Stack developer</h3>
 
-- 🔭 I’m currently working on **MERN based Ecommerce clothing website**
+- 🔭 I’m currently working on **Surgical wearable detection system (AI/ML/MERN Stack)**
 
 - 🌱 I’m currently learning **MERN Stack**
 
